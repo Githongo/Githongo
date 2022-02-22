@@ -13,13 +13,13 @@ const aboutMe = {
          css: ["Bootstrap", "Material Design", "Tailwind CSS"]
       },
       backEnd: {
-         php: ["Laravel"],
-         python: ["Django"],
+         php: ["Laravel", "CodeIgniter],
+         python: ["Django", "Flask"],
          js: ["Node", "Express"],
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
       databases: ["MongoDB", "mySQL", "Firebase"],
-      mobile: ["Android", "IOS"]
+      mobile: ["Android"]
    },
    🔭 currentOccupation: ["Software Development Apprentice"],
    ⚡ Fun fact: "I'm working towards being able to run a marathon.",
