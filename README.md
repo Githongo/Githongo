@@ -5,18 +5,17 @@
 
 ```javascript
 const aboutMe = {
-   😄 pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP, C++ ],
+   code: [Typescript, Python, Java, PHP, C++ ],
    🧑‍💻 technologies: {
       frontEnd: {
          js: ["Angular"],
          css: ["Bootstrap", "Material Design", "Tailwind CSS"]
       },
       backEnd: {
-         php: ["Laravel", "CodeIgniter],
+         php: ["Laravel", "CodeIgniter"],
          python: ["Django", "Flask"],
          js: ["Node", "Express"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         misc: ["Bash", "Git"]
       },
       databases: ["MongoDB", "mySQL", "Firebase"],
       mobile: ["Android"]
