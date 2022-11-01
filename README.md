@@ -21,6 +21,6 @@ const aboutMe = {
       mobile: ["Android"]
    },
    🔭 currentOccupation: ["Software Developer"],
-   ⚡ Fun fact: "I'm working towards being able to run a marathon.",
+   ⚡ Fun fact: "I speak four different languages.",
 };
 ```
