@@ -18,7 +18,7 @@ const aboutMe = {
          misc: ["Bash", "Git"]
       },
       databases: ["MongoDB", "mySQL", "Firebase"],
-      mobile: ["Android"]
+      mobile: ["Flutter", "Ionic"]
    },
    🔭 currentOccupation: ["Software Developer"],
    ⚡ Fun fact: "I speak four different languages.",
