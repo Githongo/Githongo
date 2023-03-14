@@ -5,7 +5,7 @@
 
 ```javascript
 const aboutMe = {
-   code: [Typescript, Python, Java, PHP, C++ ],
+   code: [Typescript, Dart, Python, Java, PHP, C++],
    🧑‍💻 technologies: {
       frontEnd: {
          js: ["Angular"],
